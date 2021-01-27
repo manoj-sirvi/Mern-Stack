@@ -1,0 +1,21 @@
+.job {
+    position: relative;
+    text-align: center;
+}
+
+.box {
+    margin: 20px;
+}
+
+.btn-box {
+    margin: 20px;
+}
+
+.margin1 {
+    margin-right: 20%;
+    margin-top: auto;
+}
+
+.text-align {
+    text-align: right;
+}
